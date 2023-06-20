@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BubeVelevski
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning react.
-- 📫 How to reach me https://www.facebook.com/bube.velevski
 <!--- - 💞️ I’m looking to collaborate on --->
 
 <!---
